@@ -1,0 +1,27 @@
+(1) - Depois de  verificar seu IP através do website, caso possa reiniciar seu roteador, oque acontecerá com o seu IP?
+
+R: Ele mudara o IP te dando outro número de IP.
+_______________________________________________________________________________________________________________
+(2) - O protocolo HTTP tem vários "status code'. Qual o código que representa que o recurso é Proibido? E qual representa um Redirecionamento Temporário?
+
+R: erro 403 representa proibido --- erro 307 redirecionamento temporário.
+
+______________________________________________________________________________________________________________
+(3) - Qual a tag html que representa uma Imagem? E qual representa uma tabela? 
+
+R:<img>representa imagem e <table> representa tabela.
+_______________________________________________________________________________________________________________
+(4) - Existe uma tag html que representa cabeçalhos ou títulos, ela tem algumas variações conforme o “tamanho”. Que tag é essa e quais são suas variações?
+
+R: <header>  'WWW-Authenticate'
+Define o método de autenticação que deve ser utilizado para conseguir acesso ao recurso.
+
+'Authorization'
+Contém as credenciais para autenticar um User-Agent com o servidor.
+
+'Proxy-Authenticate'
+Define o método de autenticação que deve ser utilizado para conseguir acesso ao recurso por trás de um servidor Proxy.
+_______________________________________________________________________________________________________________
+(5) - Acesse algum site que tenha interesse. Clique com o botão direito do mouse e, em seguida, na opção “Inspecionar”. Selecione alguma tag que contenha algum texto que você esteja visualizando no site. Tente clicar duas vezes em cima do texto e alterá-lo. O que acontece com o website? Você acha que esse comportamento afeta o website para outras pessoas? Por quê?
+
+R: Mudou o texto do site. não não afeta para outras pessoas, porque foi somente na minha maquina local ao atualizar ele voltou ao normal.
